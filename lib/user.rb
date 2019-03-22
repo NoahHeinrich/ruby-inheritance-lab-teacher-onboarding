@@ -3,6 +3,7 @@ class User
   def intialize
     @first_name = nil 
     @last_name = nil
+    
   end
   
 end
